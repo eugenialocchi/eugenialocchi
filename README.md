@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Eugenia — geophysicist who plays with earthquakes and Python 🐍  
+
+I like clean repos, reproducible runs, and coffee-fueled notebooks ☕️
+
+> Work in progress — things will evolve. Feel free to peek around my repos!
 
 <!--
 **eugenialocchi/eugenialocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
